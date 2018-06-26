@@ -1,2 +1,2 @@
 # DataMiningWithR
-Repository for development data analysis in R language. 
+Repository to develop data analysis in R language.
